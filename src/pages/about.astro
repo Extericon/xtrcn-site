@@ -1,4 +1,6 @@
 ---
+import './styles/global.css';
+
 const pageTitle = "About Me";
 
 const identity = {
@@ -13,6 +15,10 @@ const skills = ["HTML", "CSS", "Javascript", "React", "Astro", "Writing Docs"];
 const happy = true;
 const finished = false;
 const goal = 3;
+
+const skillColor = "navy";
+const fontWeight = "bold";
+const textCase = "upperCase";
 ---
 
 <html lang="en">
@@ -27,6 +33,19 @@ const goal = 3;
     <a href="/blog/">Blog</a>
 
 		<h1>{pageTitle}</h1>
+
+    <style define:vars={{skillColor, fontWeight, textCase}}>
+      h1 {
+        color: purple;
+        font-size: 4rem;
+      }
+      .skill {
+        color: var(--skillColor);
+        font-weight: var(--fontWeight);
+        text-transform: var(--textCase);
+      }
+    </style>
+
     <h2>...and my new Astro site!</h2>
 
     <p>I am working through Astro's introductory tutorial. This is the second page on my website, and it's the first one I built myself!</p>
@@ -41,9 +60,10 @@ const goal = 3;
           <li>Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
         }
       </ul>
+
       <p>My skills are:</p>
       <ul>
-        {skills.map((skill) => <li>{skill}</li>)}
+        {skills.map((skill) => <li class="skill">{skill}</li>)}
       </ul>
 
       {happy && <p>I am happy to be learning Astro!</p>}
