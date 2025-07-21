@@ -1,5 +1,5 @@
 ---
-title: Superior Matter
+title: 'Superior Matter'
 author: Extericon
 description: "Interface with the Entity"
 image:
@@ -8,8 +8,15 @@ image:
 pubDate: 2025-20-07
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
+# Superior Matter
+
+## Interface with the Entity
+
 THTC Nethadrene analog has been successfully synthasized...
+
 Approved by the board and moving foward with human testing.
+
 Complete interfacing with the populous has implications of changing the social construct.
+
 Living on the brink of the abyss...
  [Discord community](https://astro.build/chat) 
