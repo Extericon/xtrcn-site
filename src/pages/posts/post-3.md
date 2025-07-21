@@ -10,13 +10,13 @@ tags: ["astro", "learning in public", "setbacks", "community"]
 ---
 # Superior Matter
 
-## Interface with the Entity
+## Interface with the Entity To Integrate Awareness.
 
 THTC Nethadrene analog has been successfully synthasized...
 
-Approved by the board and moving foward with human testing.
+Approved by the board and moving foward with human trials.
 
-Complete interfacing with the populous has implications of changing the social construct.
+Complete interfacing with the populous has implications of changing the social construct and revealing uncomfortable truths. 
 
 Living on the brink of the abyss...
 
