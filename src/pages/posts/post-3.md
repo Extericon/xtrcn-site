@@ -19,4 +19,5 @@ Approved by the board and moving foward with human testing.
 Complete interfacing with the populous has implications of changing the social construct.
 
 Living on the brink of the abyss...
+
  [Discord community](https://astro.build/chat) 

@@ -14,8 +14,6 @@ tags: ["astro", "blogging", "learning in public", "successes"]
 
 Scannning the rocky terrain a scout drone searches for any signs of life.
 
-Maneuvering around the large, jagged, metal stuctures sticking out of the ground. 
+Maneuvering around the large, jagged, metal stuctures sticking out of the ground.Puncturing the blighted sky above them. 
 
-Puncturing the blighted sky above them. Thick clouds of black smoke billow from large holes in the ground. 
-
-Engulfing the entire landscape in distress...
+Thick clouds of black smoke billow from large holes in the ground. Engulfing the entire landscape in distress...
