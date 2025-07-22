@@ -1,6 +1,6 @@
 html {
-  background-color: #f1f5f9;
-  font-family: sans-serif;
+  background-color: #e0e0e0;
+  font-family: Courier;
 }
 
 body {
@@ -50,7 +50,7 @@ h1 {
   display: unset;
 }
 
-@media screen and (min-width: 636px) {
+@media screen and (min-width: 400px) {
   .nav-links {
     margin-left: 5em;
     display: block;
