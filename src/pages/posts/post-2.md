@@ -1,16 +1,14 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Cosmic Choas'
+pubDate: '2025-20-07'
 author: Extericon
 description: "Outerworld Chronicles"
 image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "The Astro logo on a dark background with a purple gradient arc."
-pubDate: 2025-20-07
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-# Cosmic Chaos
-
-## Outerworld Chronicles
 
 Scannning the rocky terrain a scout drone searches for any signs of life.
 

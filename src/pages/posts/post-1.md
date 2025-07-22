@@ -1,6 +1,7 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
-pubDate: 2025-20-07
+pubDate: '2025-20-07'
 description: 'This is the first post of my new Astro blog.'
 author: 'Extericon'
 image:
@@ -8,9 +9,6 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
-
-Published on: 2025-20-07
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 

@@ -1,16 +1,14 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Superior Matter'
-author: Extericon
+pubDate: '2025-20-07'
+author: 'Extericon'
 description: "Interface with the Entity"
 image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "The Astro logo on a dark background with rainbow rays."
-pubDate: 2025-20-07
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
-# Superior Matter
-
-## Interface with the Entity To Integrate Awareness.
 
 THTC Nethadrene analog has been successfully synthasized...
 

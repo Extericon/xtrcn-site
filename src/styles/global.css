@@ -1,5 +1,5 @@
 html {
-  background-color: #e0e0e0;
+  background-color: #e6e6e6;
   font-family: sans-serif;
 }
 
@@ -45,6 +45,7 @@ h1 {
 }
 
 .nav-links a {
+  color: black;
   display: block;
   text-align: center;
   padding: 10px 0;
@@ -65,14 +66,17 @@ h1 {
 
 @media screen and (min-width: 636px) {
   .nav-links {
-    margin-left: 5em;
+    text-align: center;
+    /*margin-left: 5em;*/
     display: block;
     position: static;
     width: auto;
     background: none;
+    
   }
 
   .nav-links a {
+    color: black;
     display: inline-block;
     padding: 15px 20px;
   }
