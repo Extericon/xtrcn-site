@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Cosmic Choas'
-pubDate: '2025-20-07'
-author: Extericon
+pubDate: 2025-20-07
 description: "Outerworld Chronicles"
+author: Extericon
 image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "The Astro logo on a dark background with a purple gradient arc."

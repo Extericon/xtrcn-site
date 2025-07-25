@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Superior Matter'
-pubDate: '2025-20-07'
-author: 'Extericon'
+pubDate: 2025-20-07
 description: "Interface with the Entity"
+author: 'Extericon'
 image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "The Astro logo on a dark background with rainbow rays."
