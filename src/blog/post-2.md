@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Cosmic Choas'
 pubDate: 2025-20-07
 description: "Outerworld Chronicles"

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Superior Matter'
 pubDate: 2025-20-07
 description: "Interface with the Entity"
