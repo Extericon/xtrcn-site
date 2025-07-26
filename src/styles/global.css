@@ -32,7 +32,7 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #999999;
+  background-color: #979797;
 }
 
 .nav-links {
@@ -89,7 +89,7 @@ h1 {
 
 html.dark {
   background-color: #1b1518;
-  color: #fff;
+  color: #e2e2e2;
 }
 
 .dark .nav-links a {
