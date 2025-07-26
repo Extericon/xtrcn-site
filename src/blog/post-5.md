@@ -1,6 +1,6 @@
 ---
 title: 'Monkeybonez'
-pubDate: 2025-20-07
+pubDate: 07-26-25
 description: "Do you guys remember that movie Monkeybone?"
 author: 'Extericon'
 image:
