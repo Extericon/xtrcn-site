@@ -1,6 +1,6 @@
 ---
 title: 'Monkeybonez'
-pubDate: 07-26-25
+pubDate: 2025-07-25
 description: "Do you guys remember that movie Monkeybone?"
 author: 'Extericon'
 image:
@@ -9,4 +9,4 @@ image:
 tags: ["astro", "movies", "community"]
 ---
 
-This trippy movie with Brenden Frasier. I remember getting a kick out of it when I was a younger. It came out early 2000's I believe. Brenden Frasiers character died and ends up in purgatory where he is met with a lot of interesting creatures in a very stylized environment. There is a monkey character that was something he drew for a comic strip or something, but now, in this world, it has come to life. The monkey character is kind of a rascal haha.
+This trippy movie with Brenden Frasier. I remember getting a kick out of it when I was a younger. It came out early 2000's I believe. Brenden Frasiers character dies and ends up in purgatory where he is met with a lot of interesting creatures in a very stylized environment. There is a monkey character that was something he drew for a comic strip or something, but now, in this world, it has come to life. The monkey character is kind of a rascal haha.
