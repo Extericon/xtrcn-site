@@ -17,6 +17,18 @@ body {
   box-sizing: border-box;
 }
 
+.images {
+  width: 50vh;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+.images2 {
+  width: 50vh;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  
+}
+
 h1 {
   margin: 1rem 0;
   font-size: 2.5rem;
